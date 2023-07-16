@@ -8,10 +8,6 @@ Clima is a user-friendly weather forecast application that provides real-time we
 
 - **Location Search**: Users can search for weather information in any desired location by entering the city name or ZIP code. Clima retrieves accurate weather data for the specified location.
 
-- **5-Day Forecast**: Clima provides a 5-day weather forecast, offering users the ability to plan ahead and stay prepared for upcoming weather changes.
-
-- **Unit Selection**: Users can easily switch between Celsius and Fahrenheit units to view the temperature according to their preference.
-
 - **Beautiful UI**: The Clima app features an intuitive and visually appealing user interface, making it simple and enjoyable to navigate through different weather details.
 
 ## Technologies Used
