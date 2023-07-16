@@ -1,7 +1,5 @@
 # Clima - Weather Forecast App
 
-![Clima Logo](https://github.com/SamiCh246/Clima/blob/main/Assets/App%20Icon.png)
-
 Clima is a user-friendly weather forecast application that provides real-time weather information for any location worldwide. This repository contains the source code and project files for the Clima app, enabling you to explore, contribute, and enhance the functionality of the application.
 
 ## Features
